@@ -1,6 +1,7 @@
 streamlit
-langchain-community
-langchain-core
-langchain-groq
 chromadb
+pysqlite3-binary
+langchain-core
+langchain-community
+langchain-groq
 python-dotenv
