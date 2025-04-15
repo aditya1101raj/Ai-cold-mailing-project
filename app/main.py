@@ -30,7 +30,7 @@ def create_streamlit_app(llm, portfolio, clean_text):
 
     💼 Perfect for business development teams, recruitment agencies, and staffing firms looking to **streamline communication** and **maximize placement opportunities**.
 
-    [Click here to view the Portfolio Dataset (Skills & Project Links)](https://raw.githubusercontent.com/your-username/your-repo/main/app/resource/my_portfolio.csv)
+    [Click here to view the Portfolio Dataset (Skills & Project Links)](https://github.com/aditya1101raj/Ai-cold-mailing-project/blob/main/app/resource/my_portfolio.csv)
     """)
 
     url_input = st.text_input("Enter a URL:", value="https://asus.in/careers/aug-sept-2016/Channel_Sales_Executives.html")
