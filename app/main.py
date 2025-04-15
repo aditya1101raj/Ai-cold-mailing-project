@@ -29,6 +29,8 @@ def create_streamlit_app(llm, portfolio, clean_text):
     - And generate a **personalized cold email** tailored to the client's job requirement.
 
     💼 Perfect for business development teams, recruitment agencies, and staffing firms looking to **streamline communication** and **maximize placement opportunities**.
+
+    [Click here to view the Portfolio Dataset (Skills & Project Links)](https://raw.githubusercontent.com/your-username/your-repo/main/app/resource/my_portfolio.csv)
     """)
 
     url_input = st.text_input("Enter a URL:", value="https://asus.in/careers/aug-sept-2016/Channel_Sales_Executives.html")
